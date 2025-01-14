@@ -1,3 +1,5 @@
+
+![untitled](https://github.com/user-attachments/assets/e427607f-9bb6-4041-9a8e-a84d38da5e08)
 # YOLOVision
 
 YOLOVision is a simple object detection project using the YOLOv8 model. It utilizes the `ultralytics` library for YOLO implementation and OpenCV for real-time video processing. The project detects objects from a live webcam feed and displays bounding boxes, class names, and confidence scores on the screen.
