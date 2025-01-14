@@ -89,12 +89,6 @@ The script will show the detected objects like this:
 
 ---
 
-## Future Improvements
-- Add support for video files or image inputs.
-- Allow saving detection results to a file.
-- Implement advanced post-processing techniques to filter detections.
-
----
 
 ## License
 
